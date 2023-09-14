@@ -3,5 +3,5 @@
 - 👾 Gestor e desenvlovedor de Software (HMTL, CSS, JS e Bootstrap).
 - 📊  Data Science | Machine Learn
 - 💡Apaixonado por Inovação e Tecnologia.
-- 💻 Estou cursando o terceiro período de Ciência da Computação |UNIFESP-ICT 🦖|.                          
+- 💻 Estou cursando o quarto período de Ciência da Computação |UNIFESP-ICT 🦖|.                          
 
