@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @s4viom3ndes.
 - 👨‍💻 COO at NextTEch Solutions.
 - 👾 Gestor e desenvlovedor de Software.
-- 📊  Data Science | Machine Learn
+- 📊  Data Science 
 - 💡Apaixonado por Inovação e Tecnologia.
-- 💻 Estou cursando o quarto período de Ciência da Computação |UNIFESP-ICT 🦖|.                          
+- 💻 Estou no quinto período de Ciência da Computação |UNIFESP-ICT 🦖|.                          
 
