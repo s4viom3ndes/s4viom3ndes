@@ -33,6 +33,6 @@ Gosto de desenvolver soluções que transformam **dados em sistemas inteligentes
 
 ## 🔬 Projetos
 
-- **Agile Estimator** – Participei do desenvolvimento de um istema de estimativa de esforço usando Machine Learning
+- **Agile Estimator** – Participei do desenvolvimento de um sistema de estimativa de esforço usando Machine Learning
 - **RAG Local com LLM** – Chatbot com recuperação de documentos rodando 100% local
 - **Análise Geopolítica para Supply Chain** – Sistema de análise de risco usando IA
